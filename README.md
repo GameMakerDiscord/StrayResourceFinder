@@ -1,6 +1,9 @@
 # StrayResourceFinder
 Tool used with GameMaker: Studio 1 to find unreferenced resources.
 
+Binaries: [Releases page]( https://github.com/gamemakerdiscord/strayresourcefinder/releases)
+
+
 ## Features
 * Search starts at the first room, and then expanding as it finds more and more references, preventing self referencing objects from showing up
 * Option to include all rooms if your game relies on `room_goto_next()`
