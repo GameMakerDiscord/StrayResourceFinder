@@ -1,6 +1,8 @@
 # StrayResourceFinder
 Tool used with GameMaker: Studio 1 to find unreferenced resources.
 
+Maintained by: AntonBergaker
+
 Binaries: [Releases page]( https://github.com/gamemakerdiscord/strayresourcefinder/releases)
 
 
